@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baasim-Ahmed
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning DBMS and Algorithms
+- 🌱 I’m currently learning Computer Networks and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ahmedbaasim287@gmail.com
 
